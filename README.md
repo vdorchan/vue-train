@@ -314,6 +314,8 @@ Vue.js 的单页面应用有三个文件是必要的
 
 ### 什么是 Vue Router ?
 
+[Vue Router](https://router.vuejs.org/zh-cn/)
+
 官方推荐使用 Vue Router 作为路由管理器，它和 Vue.js 的核心深度集成，让构建单页面应用变得易如反掌。
 
 Hash 模式 和 HTML5 History 模式
@@ -327,6 +329,9 @@ history 模式，利用 `history.pushState` 来完成，需要后台配置支持
 “#” 是用来指导浏览器动作的，对服务器端完全无用。所以，HTTP请求中不包括 “#”。所以修改“#”号后面的内容，页面也不会刷新。
 
 ## Vue CLI 和 webpack
+
+[Vue CLI](https://cli.vuejs.org/zh/)
+[webpack](https://www.webpackjs.com/)
 
 当你使用单文件组件开发单页面应用的时候，是需要结合 webpack 等构建工具才能部署到线上的。
 
