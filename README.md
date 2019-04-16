@@ -16,7 +16,7 @@ Vue 的核心思想是数据驱动，鼓励去操作数据，而不是操作 DOM
 
 无法上 chrome 商店的直接下载 crx 安装
 
-[Vue.js-devtools_v5.1.0.crx 下载](Vue.js-devtools_v5.1.0.crx)
+[Vue.js-devtools_v5.1.0.crx 下载](https://raw.githubusercontent.com/vdorchan/vue-train/master/Vue.js-devtools_v5.1.0.crx)
 
 ## Hello World
 
